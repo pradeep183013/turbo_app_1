@@ -4,7 +4,7 @@ on:
     branches:
       - main
     paths: 
-      - '../../apps/server/**'
+      - 'apps/server/**'
 
 
 # defaults:
