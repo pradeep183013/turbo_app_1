@@ -1,0 +1,12 @@
+{
+  "name": "@turbo_app/utils",
+ 
+  "main": "./src/utils.js",
+  "scripts": {
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}

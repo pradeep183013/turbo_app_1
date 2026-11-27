@@ -1,0 +1,21 @@
+{
+  "name": "@turbo_app",
+  "version": "1.0.0",
+
+  "scripts": {
+    "dev": "turbo --parallel dev"
+  },
+
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.23.0",
+      "onFail": "download"
+    }
+  },
+  "packageManager": "pnpm@12.23.0",
+  "type": "module",
+  "dependencies": {
+    "turbo": "^2.11.13"
+  }
+}
